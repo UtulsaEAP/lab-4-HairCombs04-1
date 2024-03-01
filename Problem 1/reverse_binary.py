@@ -2,7 +2,7 @@
 Complete the following python code to print the reverse binary representation of positive integer number entered by the user.
 
 Name: Bradyn Combs
-Lab Time: 2:00 PM
+Lab Time: 02:00 PM
 
 """
 
